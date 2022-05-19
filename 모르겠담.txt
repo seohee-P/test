@@ -1,0 +1,6 @@
+untracked 상태
+tracked 상태
+변경
+m - modified
+u - unmodified 상태
+여기서 더 바뀌면..?
